@@ -6,7 +6,7 @@
 name: Name displayed in header
 
 # Short bio or description (displayed in the header)
-description: Description, displayed in header
+description: Description, displayed in the header
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
