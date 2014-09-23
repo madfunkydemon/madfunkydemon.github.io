@@ -5,7 +5,7 @@ created: 1362997832
 categories:
 - windows
 ---
-Rather than installing the remote exchange management tools and the pain that causes, you can use powershell remoting. To setup powershell to connect to the exchange server pop the following into a powershell prompt on your client machine:
+Rather than installing the remote exchange management tools and the pain that can cause, you can use powershell remoting. To setup powershell to connect to the exchange server pop the following into a powershell prompt on your client machine:
 {% highlight powershell %}
 $cred = get-credential
 $myremote = New-PSSession -configurationname Microsoft.Exchange -connectionURI http://mail_server_name/Powershell -credential $cred
