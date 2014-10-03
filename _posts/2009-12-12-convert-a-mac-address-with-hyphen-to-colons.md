@@ -6,23 +6,22 @@ categories:
 - linux/unix
 - networking
 ---
-<p>&nbsp;If you have a MAC delimited with hyphens:</p>
-<pre>
-xx-xx-xx-xx-xx-xx
-</pre>
-<p>You can convert it to use colons using sed:</p>
-<pre>
-echo xx-xx-xx-xx-xx-xx | sed 's/-/:/g'
-</pre>
-<p>Which will output as:</p>
-<pre>
-xx:xx:xx:xx:xx:xx
-</pre>
-<p>Anything can be replaced:</p>
-<pre>
-echo xx-xx-xx-xx-xx-xx | sed 's/-/%/g' 
-</pre>
-<p>Would output:</p>
-<pre>
-xx%xx%xx%xx%xx%xx
-</pre>
+If you have a MAC delimited with hyphens:
+
+`xx-xx-xx-xx-xx-xx`
+
+You can convert it to use colons using sed:
+
+`echo xx-xx-xx-xx-xx-xx | sed 's/-/:/g'`
+
+Which will output as:
+
+`xx:xx:xx:xx:xx:xx`
+
+Anything can be replaced:
+
+`echo xx-xx-xx-xx-xx-xx | sed 's/-/%/g'`
+
+Would output:
+
+`xx%xx%xx%xx%xx%xx`
