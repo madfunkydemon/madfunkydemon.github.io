@@ -1,0 +1,36 @@
+#! /bin/bash
+
+varSSID1=`system_profiler SPAirPortDataType | grep -A 2 -e "Current Network Information:" | tr '\n' ' ' | tr ':' ' ' | awk '{print $4}'`
+varCHAN1=`system_profiler SPAirPortDataType | grep -e "Channel: " | awk '{print $2}'`
+varEXTERNAL1=`curl --connect-timeout 5 -s http://checkip.dyndns.org/ | grep "Current IP Address" | awk '{print $6}' | cut -f 1 -d "<"`
+varWIRED1=`ifconfig en0 | grep "inet " | grep -v 127.0.0.1 | awk '{print $2}'`
+varWIRELESS1=`ifconfig en1 | grep "inet " | grep -v 127.0.0.1 | awk '{print $2}'`
+varSSL1=`ifconfig jnc0 | grep "inet " | grep -v 127.0.0.1 | awk '{print $2}'`
+
+if [ "$varEXTERNAL1" != "" ]
+then
+echo "External : $varEXTERNAL1"
+else
+echo "External : INACTIVE"
+fi
+
+if [ "$varWIRED1" != "" ]
+then
+echo "Wired    : $varWIRED1"
+else
+echo "Wired    : INACTIVE"
+fi
+
+if [ "$varSSL1" != "" ]
+then
+echo "SSL      : $varSSL1"
+else
+echo "SSL      : INACTIVE"
+fi
+
+if [ "$varWIRELESS1" != "" ]
+then
+echo "AirPort  : $varWIRELESS1 SSID: $varSSID1 Channel: $varCHAN1"
+else
+echo "Airport  : INACTIVE"
+fi

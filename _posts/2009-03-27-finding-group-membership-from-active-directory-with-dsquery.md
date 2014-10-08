@@ -5,9 +5,8 @@ created: 1238146709
 categories:
 - active directory
 ---
-<p>&nbsp;Use the following:</p>
-<pre>
-dsquery user -samid &quot;username&quot; | dsget user -memberof -expand
+Use the following:
 
-</pre>
-<p>The -expand option will include nestled groups.</p>
+`dsquery user -samid "username" | dsget user -memberof -expand`
+
+The -expand option will include nestled groups.
