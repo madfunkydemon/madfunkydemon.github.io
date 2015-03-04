@@ -2,9 +2,9 @@
 layout: default
 ---
 
-var host = "b.thewayeye.net";
+{% raw %}var host = "b.thewayeye.net";
 if ((host == window.location.host) && (window.location.protocol != "https:"))
-    window.location.protocol = "https";
+    window.location.protocol = "https";{% endraw %}
 
 <div class="posts">
   {% for post in paginator.posts %}
