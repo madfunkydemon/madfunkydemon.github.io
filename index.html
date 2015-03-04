@@ -2,6 +2,10 @@
 layout: default
 ---
 
+var host = "b.thewayeye.net";
+if ((host == window.location.host) && (window.location.protocol != "https:"))
+    window.location.protocol = "https";
+
 <div class="posts">
   {% for post in paginator.posts %}
     <article class="post">    
