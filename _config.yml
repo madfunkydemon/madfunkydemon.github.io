@@ -54,7 +54,8 @@ highlighter: pygments
 #permalink: /:title/
 #permalink: date
 permalink: /:year/:month/:i_day/:title
-paginate: 5
+paginate: 10
+paginate_path: "/archives/page/:num"
 
 excerpt_separator: ""
 
