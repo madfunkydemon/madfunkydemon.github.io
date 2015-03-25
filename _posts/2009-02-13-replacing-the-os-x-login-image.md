@@ -4,8 +4,9 @@ title: Replacing the OS X Login Image
 created: 1234522124
 categories:
 - os x
+permalink: /2009/february/5/replacing-os-x-login-image
 ---
-<p>You need to replace the system default image. You can do this easily from the terminal:</p>
+<p>If you need to replace the system default image in Leopard OS X 10.5. You can do this easily from the terminal:</p>
 <pre>
 sudo cp /System/Library/CoreServices/DefaultDesktop.jpg /System/Library/CoreServices/DefaultDesktop.jpg.bak
 
@@ -15,4 +16,4 @@ sudo cp /System/Library/CoreServices/DefaultDesktop.jpg /System/Library/CoreServ
 sudo cp ~/Pictures/filename.jpg /System/Library/CoreServices/DefaultDesktop.jpg
 
 </pre>
-<p><a href="/sites/default/files/lock.jpg"><img alt="Custom Login Screen" width="288" height="180" class="triggerclass" src="/sites/default/files/small_lock.jpg" /></a></p>
+<p><img alt="Custom Login Screen" src="/images/lock.jpg" /></p>
