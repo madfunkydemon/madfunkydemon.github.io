@@ -7,7 +7,7 @@ categories:
 permalink: /2012/february/4/compiling-growl-13-lion
 ---
 <p>&nbsp;To begin, make sure you have removed any previous versions of Growl. Instructions <a href="http://growl.info/documentation/growl-package-removal.php">here</a>.</p>
-<p>You will need to install Mercurial, which can be found <a href="http://mercurial.selenic.com/downloads/">here</a>.</p>
+<p>You will need to install Mercurial, which can be found <a href="http://mercurial.selenic.com/">here</a>.</p>
 <p>Once installed input the following from a terminal:</p>
 <pre>
 mkdir ~/Desktop/tmp
