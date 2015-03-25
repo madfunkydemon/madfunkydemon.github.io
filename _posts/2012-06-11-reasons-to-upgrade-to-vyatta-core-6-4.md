@@ -5,6 +5,7 @@ created: 1339381908
 categories:
 - vsphere
 - linux/unix
+permalink: /2012/june/1/reasons-upgrade-vyatta-core-64
 ---
 How about:
 
