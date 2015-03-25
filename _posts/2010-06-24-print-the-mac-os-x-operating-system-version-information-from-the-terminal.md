@@ -6,14 +6,18 @@ categories:
 - os x
 permalink: /2010/june/4/print-mac-os-x-operating-system-version-information-terminal
 ---
-<p>Use:</p>
-<pre>
+Use:
+
 sw_vers
-</pre>
-<p>In my case:</p>
-<p>
-<pre>
-ProductName:<span class="Apple-tab-span" style="white-space:pre"> </span>Mac OS X
-ProductVersion:<span class="Apple-tab-span" style="white-space:pre"> </span>10.6.4
-BuildVersion:<span class="Apple-tab-span" style="white-space:pre"> </span>10F569</pre>
-</p>
+
+In my case:
+
+ProductName:    Mac OS X
+ProductVersion: 10.6.4
+BuildVersion:   10F569
+
+Update: This still works in os x yosemite:
+
+ProductName:	Mac OS X
+ProductVersion:	10.10.2
+BuildVersion:	14C1514
