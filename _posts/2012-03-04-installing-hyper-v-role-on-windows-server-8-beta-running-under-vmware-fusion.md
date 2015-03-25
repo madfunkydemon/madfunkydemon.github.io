@@ -6,6 +6,7 @@ categories:
 - os x
 - vmware
 - hyper-v
+permalink: /2012/march/7/installing-hyper-v-role-windows-server-8-beta-running-under-vmware-fusion
 ---
 <p>&nbsp;This is a catchy title, but if you are interested in playing with Hyper-V 3 then add the following to your virtual machine vmx file:</p>
 <p class="p1">vhv.enable = &quot;TRUE&quot;<br />
