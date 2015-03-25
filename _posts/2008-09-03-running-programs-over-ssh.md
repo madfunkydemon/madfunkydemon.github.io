@@ -5,6 +5,7 @@ created: 1220454698
 categories:
 - os x
 - linux/unix
+permalink: /2008/september/3/running-programs-over-ssh
 ---
 <p>This is by far the best thing to use when you are running programs that take a while to complete. The danger is that you lose your SSH connection and your program along with it. Use the following to start a screen session:</p>
 <pre>
