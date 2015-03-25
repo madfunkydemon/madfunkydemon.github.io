@@ -22,7 +22,9 @@ In OS X Yosemite:
 <pre>
 sudo discoveryutil mdnsflushcache
 <pre>
+
 In OS X Mavericks, Lion, Mountain Lion:
+
 <pre>
 sudo killall -HUP mDNSResponder
 <pre>
