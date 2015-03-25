@@ -4,6 +4,7 @@ title: 'Checking DNS for CERT VU#800113 '
 created: 1220983749
 categories:
 - networking
+permalink: /2008/september/2/checking-dns-cert-vu800113
 ---
 <p>&nbsp;You can use the following web service to see if your DNS servers or resolvers need attention.&nbsp;</p>
 <p>For Windows:</p>
