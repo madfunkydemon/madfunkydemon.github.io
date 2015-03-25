@@ -4,6 +4,7 @@ title: Using tcpdump to Capture Traffic for Analysis in Wireshark
 created: 1220469497
 categories:
 - networking
+permalink: /2008/september/3/using-tcpdump-capture-traffic-analysis-wireshark
 ---
 <p>&nbsp;Use the following:</p> <pre>
 tcpdump -i &lt;interface> -s 1500 -w &lt;some-file>
