@@ -5,6 +5,7 @@ created: 1331207242
 categories:
 - windows
 - active directory
+permalink: /2012/march/4/blocking-internet-explorer-automatically-upgrading-windows-update
 ---
 You have a few options for doing this especially if you are using something like WSUS. However if you aren't, then a registry change via group policy or logon script is probably the best option. Here is a a registry file that will block automatic upgrade to internet explorer 8 and 9:
 
