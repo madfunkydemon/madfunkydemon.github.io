@@ -4,7 +4,7 @@ title: Unable to use Wireless and Wired Connections In Windows 8
 created: 1391722930
 categories:
 - windows
-permanlink: /2014/february/4/unable-use-wireless-and-wired-connections-windows-8
+permalink: /2014/february/4/unable-use-wireless-and-wired-connections-windows-8
 ---
 I needed to do this recently and had a few issues. I guess it is not often required to have multiple connections but every now and then it crops up. Historically drivers sometimes caused issues and usually down to power options, understandability to reduce load on batteries. However this time it turned out to be windows that is effecting things. Cutting a long story short, to find the culprit setting run:
 {% highlight bash %}
