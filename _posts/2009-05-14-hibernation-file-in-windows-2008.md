@@ -4,6 +4,7 @@ title: Hibernation File in Windows 2008
 created: 1242283276
 categories:
 - windows
+permalink: /2009/may/4/hibernation-file-windows-2008
 ---
 <p>&nbsp;I'm not sure the reason the hibernation file (hiberfil.sys) being enabled in a default Windows 2008 Server install, but use this to remove it:</p>
 <pre>
