@@ -5,6 +5,7 @@ title: 'Finding the Exchange Mail Pickup and Replay Directory Folder Location in
 created: 1393494285
 categories:
 - powershell
+permalink: /2014/february/4/finding-exchange-mail-pickup-and-replay-directory-folder-location-your-exchange-infr
 ---
 Use the following powershell command to return the mail pickup folder location from all your Edge and Hub Transport servers.
 {% highlight powershell %}
