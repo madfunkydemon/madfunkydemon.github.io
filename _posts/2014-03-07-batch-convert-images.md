@@ -5,6 +5,7 @@ created: 1394184422
 categories:
 - tools
 - os x
+permalink: /2014/march/5/batch-convert-images
 ---
 The quickest way of converting image formats is to use ImageMagick. There are binary releases for most popular operating systems, however in my case I'm using it on OS X. So to install using brew from a terminal use:
 {% highlight bash %}
