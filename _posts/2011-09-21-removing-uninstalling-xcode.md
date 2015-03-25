@@ -10,3 +10,5 @@ permalink: /2011/september/3/removinguninstalling-xcode
 <pre>
 sudo /Developer/Library/uninstall-devtools --mode=all
 </pre>
+
+This is quite old, these days you should just be able to delete the Xcode app.
