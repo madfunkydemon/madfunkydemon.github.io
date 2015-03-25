@@ -4,6 +4,7 @@ title: Wireshark Error on the Mac
 created: 1277545313
 categories:
 - os x
+permalink: /2010/june/6/wireshark-error-mac
 ---
 <p>When you reboot and get this error after installing Wireshark on the mac:</p>
 <p>&quot;Insecure startup item disabled chmodBPF&quot;</p>
