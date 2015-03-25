@@ -4,6 +4,7 @@ title: About Pages in Google Chrome
 created: 1220908096
 categories:
 - internet
+permalink: /2008/september/1/about-pages-google-chrome
 ---
 <p>&nbsp;You can get some interesting information out of these if you pop then into Google Chrome:</p>
 <p>about:crash<br />
@@ -15,8 +16,8 @@ about:version<br />
 about:network<br />
 about:internets<br />
 about:cache</p>
-<p><a href="/sites/default/files/crash.gif"><img width="450" height="353" class="triggerclass" alt="Crash" style="border-style: none;" src="/sites/default/files/crash.gif" /></a></p>
+<p><img alt="Crash" src="/images/chrome_1.gif" /></p>
 <!--break-->
-<p><a href="/sites/default/files/About.gif"><img width="454" height="267" class="triggerclass" alt="About" style="border-style: none;" src="/sites/default/files/About.gif" /></a><br />
+<p><img alt="About" src="/images/chrome_2.gif" /><br />
 <br />
-<img width="419" height="159" alt="Memory" src="/sites/default/files/Memory.gif" /></p>
+<img alt="Memory" src="/images/chrome_3.gif" /></p>
