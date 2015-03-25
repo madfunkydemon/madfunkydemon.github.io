@@ -9,7 +9,7 @@ permalink: /2009/june/1/listing-mac-address-adapters-windows
 ---
 <p>You can use this to list the MAC address on the current machine:</p>
 <pre>
-getmac
+getmac /V
 
 </pre>
 <p>It also has remote options too:</p>
