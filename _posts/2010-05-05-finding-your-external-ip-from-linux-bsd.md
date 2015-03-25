@@ -5,6 +5,7 @@ created: 1273061287
 categories:
 - linux/unix
 - os x
+permalink: /2010/may/3/finding-your-external-ip-linuxbsd
 ---
 <p>&nbsp;If you have curl installed:</p>
 <pre>
