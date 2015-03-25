@@ -4,6 +4,7 @@ title: Creating an ISO image from a CD in OS X
 created: 1258374371
 categories:
 - os x
+permalink: /2009/november/1/creating-iso-image-cd-os-x
 ---
 <p>&nbsp;You need to find the device path of your CD drive.:</p>
 <pre>
