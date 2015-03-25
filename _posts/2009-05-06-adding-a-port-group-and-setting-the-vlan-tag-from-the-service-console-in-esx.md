@@ -5,6 +5,7 @@ created: 1241618180
 categories:
 - virtualisation
 - esx
+permalink: /2009/may/3/changing-vlan-tag-existing-esx-service-console
 ---
 <p>&nbsp;Use the following:</p>
 <p>esxcfg-vswitch -A &quot;Port Group Name&quot; vSwitch2 &amp;&amp; esxcfg-vswitch -v N -p &quot;Port Group Name&quot; vSwitch2</p>
