@@ -5,6 +5,7 @@ created: 1325612125
 categories:
 - windows
 - vmware
+permalink: /2012/january/2/removing-hidden-network-adapters-windows
 ---
 Windows device manager does not always allow you to see old adapters once the hardware has been removed. You can enable it to do so but when you are dealing with large numbers of virtual machines you need another approach. Devcon can enable you to do this and can be found&nbsp;<a href="http://support.microsoft.com/kb/311272">here</a>&nbsp;if you are after the 32bit version. However there is no 64bit version (just the 32bit &amp; itanium version). To get the 64bit version you have to get hold of the Windows Device Driver kit <a href="http://www.microsoft.com/download/en/details.aspx?id=11800">here</a>. It is a 600Mb+ download which is large when you only want the one file. Once downloaded locate this file &quot;setuptools_x64fre.msi&quot;. You can find it in the WINDDK folder of the iso. Extract the msi out with the following:
 

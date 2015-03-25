@@ -4,6 +4,7 @@ title: Installing Package Groups in Ubuntu Server
 created: 1238160777
 categories:
 - linux/unix
+permalink: /2009/march/5/installing-package-groups-ubuntu-server
 ---
 To re-run the package group selection from the Ubuntu server installation use:
 

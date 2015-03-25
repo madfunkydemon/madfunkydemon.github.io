@@ -4,6 +4,7 @@ title: 'Displaying Current Network Information Using Geektool in OS X '
 created: 1277396296
 categories:
 - os x
+permalink: /2010/june/4/displaying-current-network-information-using-geektool-os-x
 ---
 I put together a script from a variety of sources including some customisations which displays the following information in the form:
 

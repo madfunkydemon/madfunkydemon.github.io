@@ -4,6 +4,7 @@ title: Pxe Booting Virtual Machines Using VMware Fusion/Workstation and gpxe or 
 created: 1333371442
 categories:
 - vmware
+permalink: /2012/april/1/pxe-booting-virtual-machines-using-vmware-fusionworkstation-and-gpxe-or-ipxe
 ---
 Vmware Fusion already includes a basic preboot execution environment (pxe) firmware. It is however possible to load other pxe firmwares into Fusion just like flashing ROMs into real network adapters. Two examples of pxe compliant boot loaders are gpxe and ipxe. Ipxe seems to be based on gpxe but they have generally similar features sets. These features include DNS, HTTP, iSCSI chainloading and more. To access these extra features we need to get hold of the ROM files which can be downloaded from here (right click and choose save as):
 

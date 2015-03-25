@@ -6,6 +6,7 @@ created: 1331035065
 categories:
 - windows
 - powershell
+permalink: /2012/march/2/bulk-removing-zoneidentifier-alternate-data-streams-downloaded-windows-files
 ---
 Alternate Data Streams (ADS) are used by Windows to add an identifier describing the 'internet explorer zone' the file was downloaded from. If the zone was not trusted you may have to unblock the file. Certain file types are more at risky and therefore are automatically blocked (<a href="http://support.microsoft.com/kb/883260">see here</a>). To manually unblock the file go to explorer and right click the file, select properties and click unblock. This is somewhat cumbersome for large numbers of files. Using the Sysinternals <a href="http://technet.microsoft.com/en-us/sysinternals/bb897440">streams</a> tool you can manage this for far larger numbers of files. To view files to see if they have any ADS you can use:
 

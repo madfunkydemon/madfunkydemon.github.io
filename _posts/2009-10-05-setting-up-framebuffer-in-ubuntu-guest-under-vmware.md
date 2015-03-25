@@ -4,6 +4,7 @@ title: Setting up framebuffer in Ubuntu guest under vmware
 created: 1254751497
 categories:
 - linux/unix
+permalink: /2009/october/1/setting-framebuffer-ubuntu-guest-under-vmware
 ---
 Log into the linux guest and make sure you have hwlist installed. If you haven't you can install it with:
 

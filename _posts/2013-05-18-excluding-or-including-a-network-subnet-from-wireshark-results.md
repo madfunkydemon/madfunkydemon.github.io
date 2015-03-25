@@ -4,6 +4,7 @@ title: Excluding or Including a Network/Subnet from Wireshark Results
 created: 1368916948
 categories:
 - wireshark
+permalink: 2013-05-18-excluding-or-including-a-network-subnet-from-wireshark-results.md
 ---
 You can use this wireshark filter to restrict results to the network you are interested in:
 

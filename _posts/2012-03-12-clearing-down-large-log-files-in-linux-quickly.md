@@ -4,6 +4,7 @@ title: Clearing Down Large Log Files in Linux Quickly
 created: 1331559892
 categories:
 - linux/unix
+permalink: /2012/march/1/clearing-down-large-log-files-linux-quickly
 ---
 You should use something like <a href="http://linuxcommand.org/man_pages/logrotate8.html">logrotate</a> to manage you log files however sometimes you are not interested in the log content and just want to clear them. Especially if you have multi GB files due to excessive errors. In this situation use:
 {% highlight bash %}

@@ -5,6 +5,7 @@ created: 1339383713
 categories:
 - os x
 - linux/unix
+permalink: /2012/june/1/getting-size-file-bytes-unixlinux
 ---
 Use the following from a terminal to get the file size in bytes:
 

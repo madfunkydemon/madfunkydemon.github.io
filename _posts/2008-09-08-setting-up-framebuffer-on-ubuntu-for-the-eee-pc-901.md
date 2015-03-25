@@ -4,6 +4,7 @@ title: Setting up Framebuffer on Ubuntu for the EEE PC 901
 created: 1220836239
 categories:
 - linux/unix
+permalink: /2008/september/1/setting-framebuffer-ubuntu-eee-pc-901
 ---
 <p>If you haven't got hwinfo installed then:</p>
 <pre>
@@ -31,5 +32,5 @@ sudo nano /boot/grub/menu.lst
 <div>&nbsp;</div>
 <div>Then reboot and log in to a terminal:</div>
 <div>&nbsp;</div>
-<div>&nbsp;<img alt="lap" width="478" height="314" src="/sites/default/files/cs_0.jpg" /></div>
+<div>&nbsp;<img alt="lap" width="478" height="314" src="/images/eee_pc.jpg" /></div>
 <p>&nbsp;</p>

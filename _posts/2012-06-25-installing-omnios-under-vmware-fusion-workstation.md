@@ -5,6 +5,7 @@ created: 1340633556
 categories:
 - vmware
 - linux/unix
+permalink: /2012/june/1/installing-omnios-under-vmware-fusionworkstation
 ---
 As of the 25/06/12 you need to use the <a href="http://omnios.omniti.com/wiki.php/Installation">bloody release</a> and will also need to have a floppy drive attached. You can add the floppy drive through the VMware gui or add the following to your vmx file:
 
