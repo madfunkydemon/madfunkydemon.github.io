@@ -4,6 +4,7 @@ title: 'Reporting the Machine Hardware Model Number from Windows '
 created: 1402927792
 categories:
 - windows
+permalink: /2014/june/1/reporting-machine-hardware-model-number-windows
 ---
 You can pull this information from wmi. This method is useful when you are on the other side of the world to the machine you are working on. All you need is a local or remote shell via psexec or powershell, and type the following:
 

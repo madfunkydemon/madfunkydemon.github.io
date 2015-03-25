@@ -4,6 +4,7 @@ title: Active Directory Forest Wide User Search
 created: 1393593590
 categories:
 - active directory
+permalink: /2014/february/5/active-directory-forest-wide-user-search
 ---
 I always have to look this up, I'm not sure what is going on with my memory:
 {% highlight bash %}

@@ -7,6 +7,7 @@ categories:
 - linux/unix
 - os x
 - windows
+permalink: /2012/april/3/open-current-working-folder-command-lineterminal-windows-ubuntu-or-os-x
 ---
 Sometimes you need to use the operating system file manager rather than a terminal so a quick way of opening it can be seen below. For the Windows command line:
 

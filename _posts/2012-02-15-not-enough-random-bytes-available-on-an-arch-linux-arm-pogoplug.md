@@ -4,6 +4,7 @@ title: Not Enough Random Bytes Available on an Arch Linux ARM Pogoplug
 created: 1329308416
 categories:
 - linux/unix
+permalink: /2012/february/3/not-enough-random-bytes-available-arch-linux-arm-pogoplug
 ---
 If you get the following error when generating a pacman keychain master key:
 

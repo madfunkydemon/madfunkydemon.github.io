@@ -4,6 +4,7 @@ title: Stopping MIB Module Errors When Starting Wireshark in os x
 created: 1238592549
 categories:
 - os x
+permalink: /2009/april/3/stopping-mib-module-errors-when-starting-wireshark-os-x
 ---
 <p>&nbsp;If you get the following error on&nbsp;startup&nbsp;in wireshark:</p>
 <pre>

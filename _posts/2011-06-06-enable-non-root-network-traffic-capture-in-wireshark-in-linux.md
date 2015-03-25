@@ -4,6 +4,7 @@ title: Enable Non-Root Network Traffic Capture in Wireshark in Linux
 created: 1307367251
 categories:
 - linux/unix
+permalink: /2011/june/1/enable-non-root-network-traffic-capture-wireshark-linux
 ---
 <p>&nbsp;Install wireshark as normal then run:</p>
 <pre>
