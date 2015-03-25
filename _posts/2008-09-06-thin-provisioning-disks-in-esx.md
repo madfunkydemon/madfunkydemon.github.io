@@ -5,6 +5,7 @@ created: 1220714867
 categories:
 - esx
 - virtualisation
+permalink: /2008/september/6/thin-provisioning-disks-esx
 ---
 <p>Log in over SSH and run:</p> <pre>
 vmkfstools -c 50G -d thick /vmfs/volumes/san/vm/thick.vmdk
