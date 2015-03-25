@@ -4,6 +4,7 @@ title: 'Compiling Growl 1.3 for Lion '
 created: 1329402783
 categories:
 - os x
+permalink: /2012/february/4/compiling-growl-13-lion
 ---
 <p>&nbsp;To begin, make sure you have removed any previous versions of Growl. Instructions <a href="http://growl.info/documentation/growl-package-removal.php">here</a>.</p>
 <p>You will need to install Mercurial, which can be found <a href="http://mercurial.selenic.com/downloads/">here</a>.</p>
