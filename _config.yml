@@ -50,7 +50,7 @@ baseurl: ""
 #
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 #permalink: /:title/
 #permalink: date
 permalink: /:year/:month/:i_day/:title
