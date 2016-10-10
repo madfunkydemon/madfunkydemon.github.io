@@ -20,7 +20,7 @@ Get-DhcpServerv4Scope | Get-DhcpServerv4Lease -EA SilentlyContinue -ClientId 00-
 {% endhighlight %}
 Resulting in:
 
-<p><img alt="Powershell DHCP Lease Search Filter" width="720" height="137" src="/images/ps-search-filter.gif" /></p>
+<p><img alt="Powershell DHCP Lease Search Filter" width="720" height="68.5" src="/images/ps-search-filter.gif" /></p>
 
 The -EA blocks any failures from scopes that do not have any matches so makes the output nicer. Another handy tip is a quick way to find a free IP in a defined DHCP scope:
 {% highlight powershell %}
