@@ -4,7 +4,7 @@ title: Replacing the OS X Login Image
 created: 1234522124
 categories:
 - os x
-permalink: /2009/february/5/replacing-os-x-login-image
+permalink: /2009/february/5/replacing-os-x-login-image/
 ---
 <p>If you need to replace the system default image in Leopard OS X 10.5. You can do this easily from the terminal:</p>
 <pre>

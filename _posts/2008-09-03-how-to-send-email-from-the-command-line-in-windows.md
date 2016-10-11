@@ -5,7 +5,7 @@ created: 1220455345
 categories:
 - tools
 - windows
-permalink: /2008/september/3/how-send-email-command-line-windows
+permalink: /2008/september/3/how-send-email-command-line-windows/
 ---
 <p>&nbsp;Blat is the way forward. Blat is a small, efficent SMTP command line mailer for Windows. It is the SMTP *sending* part of an eMail User Agent (MUA) or eMail client. As such, Blat sends eMail via SMTP (or internet eMail) from the command line, or CGI, ...</p>
 <pre>

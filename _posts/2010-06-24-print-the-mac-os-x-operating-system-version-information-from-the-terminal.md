@@ -4,7 +4,7 @@ title: Print The Mac OS X Operating System Version Information From the Terminal
 created: 1277394846
 categories:
 - os x
-permalink: /2010/june/4/print-mac-os-x-operating-system-version-information-terminal
+permalink: /2010/june/4/print-mac-os-x-operating-system-version-information-terminal/
 ---
 Use:
 

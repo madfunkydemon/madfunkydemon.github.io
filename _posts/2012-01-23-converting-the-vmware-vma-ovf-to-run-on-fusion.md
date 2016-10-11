@@ -4,7 +4,7 @@ title: Converting the VMware VMA Ovf to run on Fusion
 created: 1327310399
 categories:
 - vsphere
-permalink: /2012/january/1/converting-vmware-vma-ovf-run-fusion
+permalink: /2012/january/1/converting-vmware-vma-ovf-run-fusion/
 ---
 <p>&nbsp;To get the vSphere Management Assistant appliance to run under VMware Fusion use the ovftool. You will need to download the VMA appliance from VMware, extract it and then cd to that directory. You will have to include the full path to the ovftool or include it in your classpath. Then:</p>
 <pre>

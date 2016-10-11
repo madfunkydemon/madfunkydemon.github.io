@@ -4,7 +4,7 @@ title: When you can't add window server roles as it does not like your original 
 created: 1254913797
 categories:
 - windows
-permalink: /2009/october/3/when-you-cant-add-window-server-roles-it-does-not-your-original-disk
+permalink: /2009/october/3/when-you-cant-add-window-server-roles-it-does-not-your-original-disk/
 ---
 <p>&nbsp;Once you have run a service pack on a server and you try to add a server role, often it will not accept your original source disk. In this case you need to extract the service pack files. For example in the case of Windows 2003 Server SP2, use the command prompt with /x switch to extract the files:&nbsp;</p>
 <pre>

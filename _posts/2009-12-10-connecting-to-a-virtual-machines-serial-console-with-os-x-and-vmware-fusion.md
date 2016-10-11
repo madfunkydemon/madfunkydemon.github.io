@@ -5,7 +5,7 @@ created: 1260434834
 categories:
 - vmware
 - os x
-permalink: /2009/december/4/connecting-virtual-machines-serial-console-os-x-and-vmware-fusion
+permalink: /2009/december/4/connecting-virtual-machines-serial-console-os-x-and-vmware-fusion/
 ---
 Fusion does have many of the features of VMware workstation but they are not all available in the GUI. An example of this is when you need a VM which only has a serial console. Make sure you have added the virtual serial hardware from the 'other' section in the settings. Next you need to edit the vmx file to add the correct settings:
 

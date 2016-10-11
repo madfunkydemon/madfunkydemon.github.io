@@ -4,7 +4,7 @@ title: Viewing Email Headers in Outlook 2010
 created: 1329405201
 categories:
 - windows
-permalink: /2012/february/4/viewing-email-headers-outlook-2010
+permalink: /2012/february/4/viewing-email-headers-outlook-2010/
 ---
 This can be a little tricky to find in different versions of Microsoft Outlook. In Outlook 2010 you have to open the email you are interested in, then on the ribbon tool bar select: 
 

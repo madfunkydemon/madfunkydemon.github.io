@@ -4,7 +4,7 @@ title: Report a Dell Service Tag Remotely
 created: 1231330047
 categories:
 - windows
-permalink: /2009/january/3/report-dell-service-tag-remotely
+permalink: /2009/january/3/report-dell-service-tag-remotely/
 ---
 <p>Create a text file with the following:&nbsp;</p>
 <pre>

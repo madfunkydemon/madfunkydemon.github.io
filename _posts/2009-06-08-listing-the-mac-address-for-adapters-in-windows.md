@@ -5,7 +5,7 @@ created: 1244456209
 categories:
 - windows
 - networking
-permalink: /2009/june/1/listing-mac-address-adapters-windows
+permalink: /2009/june/1/listing-mac-address-adapters-windows/
 ---
 <p>You can use this to list the MAC address on the current machine:</p>
 <pre>

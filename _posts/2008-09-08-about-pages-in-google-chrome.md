@@ -4,7 +4,7 @@ title: About Pages in Google Chrome
 created: 1220908096
 categories:
 - internet
-permalink: /2008/september/1/about-pages-google-chrome
+permalink: /2008/september/1/about-pages-google-chrome/
 ---
 <p>&nbsp;You can get some interesting information out of these if you pop then into Google Chrome:</p>
 <p>about:crash<br />

@@ -5,7 +5,7 @@ created: 1236763669
 categories:
 - linux/unix
 - os x
-permalink: /2009/march/3/flushing-dns-cache-os-x-and-linux
+permalink: /2009/march/3/flushing-dns-cache-os-x-and-linux/
 ---
 In Leopard do:
 <pre>

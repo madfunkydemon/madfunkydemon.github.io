@@ -4,7 +4,7 @@ title: I Always Forget...
 created: 1327444105
 categories:
 - linux/unix
-permalink: /2012/january/2/i-always-forget
+permalink: /2012/january/2/i-always-forget/
 ---
 <p>&nbsp;I can't seem to remember this:</p>
 <pre>

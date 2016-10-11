@@ -4,7 +4,7 @@ title: Getting to Network Connections Quickly in Vista
 created: 1221393367
 categories:
 - windows
-permalink: /2008/september/7/getting-network-connections-quickly-vista
+permalink: /2008/september/7/getting-network-connections-quickly-vista/
 ---
 <p>Pop this into the run dialog:</p>
 <pre>

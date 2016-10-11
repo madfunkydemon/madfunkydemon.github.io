@@ -4,7 +4,7 @@ title: Using Grep to Scan Log Files on Windows
 created: 1220451805
 categories:
 - windows
-permalink: /2008/september/3/using-grep-scan-log-files-windows
+permalink: /2008/september/3/using-grep-scan-log-files-windows/
 ---
 <p>Use the following to find&nbsp;Forbidden errors from web server logs:</p>
 <pre>

@@ -4,7 +4,7 @@ title: Changing the postfix banner
 created: 1256837012
 categories:
 - linux/unix
-permalink: /2009/october/4/changing-postfix-banner
+permalink: /2009/october/4/changing-postfix-banner/
 ---
 Make sure that when you send mail from web hosts you have a reverse lookup name that matches your postfix banner. Otherwise you can sometimes get marked as spam by some providers. Use the following to set the postfix name:
 

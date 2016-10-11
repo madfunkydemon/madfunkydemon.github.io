@@ -5,7 +5,7 @@ created: 1221179706
 categories:
 - storage
 - linux/unix
-permalink: /2008/september/5/creating-zfs-iscsi-target
+permalink: /2008/september/5/creating-zfs-iscsi-target/
 ---
 <p>Using a Nexenta VM it is possible to create a 500 TB thin provisioned iSCSI target in three lines:</p>
 <pre>

@@ -4,7 +4,7 @@ title: Checking for Mangled Attributes in Windows 2000 Forests with Adfind
 created: 1239966850
 categories:
 - active directory
-permalink: /2009/april/5/checking-mangled-attributes-windows-2000-forests-adfind
+permalink: /2009/april/5/checking-mangled-attributes-windows-2000-forests-adfind/
 ---
 <p>&nbsp;From <a href="http://support.microsoft.com/kb/314649">link</a>:</p>
 <p><strong>&quot;</strong>The Microsoft Exchange 2000 schema defines three non-Request for Comments (RFC)-compliant attributes: houseIdentifier, Secretary, and labeledURI. The Microsoft Windows 2000 InetOrgPerson Kit redefines the Secretary attribute and the labeledURI attribute. The adprep /forestprep command in Microsoft Windows Server 2003 has redefined all three attributes as described in Request for Comments (RFC) 2798.</p>

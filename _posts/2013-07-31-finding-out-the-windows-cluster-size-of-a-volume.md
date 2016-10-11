@@ -5,7 +5,7 @@ created: 1375266979
 categories:
 - storage
 - windows
-permalink: /2013/july/3/finding-out-windows-cluster-size-volume
+permalink: /2013/july/3/finding-out-windows-cluster-size-volume/
 ---
 From an administrative command prompt type:
 

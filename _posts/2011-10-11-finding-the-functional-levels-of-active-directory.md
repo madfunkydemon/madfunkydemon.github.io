@@ -4,7 +4,7 @@ title: Finding the Functional Levels of Active Directory
 created: 1318349919
 categories:
 - active directory
-permalink: /2011/october/2/finding-functional-levels-active-directory
+permalink: /2011/october/2/finding-functional-levels-active-directory/
 ---
 <p>There a quite a few ways of finding the Fuctional levels of Active Directory. Dsquery is a good option as it usually is distributed with windows. &nbsp;This will give you the Domain Functional Level:</p>
 <pre>

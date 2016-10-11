@@ -5,7 +5,7 @@ created: 1269088328
 categories:
 - networking
 - linux/unix
-permalink: /2010/march/6/ubuntu-wireless-bcm4322
+permalink: /2010/march/6/ubuntu-wireless-bcm4322/
 ---
 <p>I have been having issues with the BCM4322 wireless card on my macbook pro under ubuntu. As it turns out after some digging&nbsp; the BCM4322 driver only supports the 'Rest of World' locale which does not include wireless channels 12 &amp; 13. You can test this by trying:</p>
 <pre>

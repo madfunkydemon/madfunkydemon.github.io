@@ -4,7 +4,7 @@ title: Resuming Partial Downloads
 created: 1303215553
 categories:
 - internet
-permalink: /2011/april/2/resuming-partial-downloads
+permalink: /2011/april/2/resuming-partial-downloads/
 ---
 <p>&nbsp;You can use curl to do this:</p>
 <pre>

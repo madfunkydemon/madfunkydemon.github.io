@@ -4,7 +4,7 @@ title: 'Quickly find FSMO Roles '
 created: 1318333234
 categories:
 - active directory
-permalink: /2011/october/2/quickly-find-fsmo-roles
+permalink: /2011/october/2/quickly-find-fsmo-roles/
 ---
 <p>&nbsp;Use netdom to find where the current FSMO roles are assigned in Active Directory:</p>
 <pre>

@@ -4,7 +4,7 @@ title: A Basic Traceroute in Scapy
 created: 1220450108
 categories:
 - networking
-permalink: /2008/september/3/basic-traceroute-scapy
+permalink: /2008/september/3/basic-traceroute-scapy/
 ---
 <pre>
 ans,unans=traceroute(['www.google.co.uk','www.yahoo.com','www.microsoft.com'])

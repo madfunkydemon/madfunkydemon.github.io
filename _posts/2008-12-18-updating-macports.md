@@ -4,7 +4,7 @@ title: Updating MacPorts
 created: 1229589978
 categories:
 - os x
-permalink: /2008/december/4/updating-macports
+permalink: /2008/december/4/updating-macports/
 ---
 <pre>
 sudo port selfupdate

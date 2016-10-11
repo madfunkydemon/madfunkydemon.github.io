@@ -4,7 +4,7 @@ title: Using an External Floppy Drive to Add Storage Drivers to a Windows Instal
 created: 1242219982
 categories:
 - windows
-permalink: /2009/may/3/using-external-floppy-drive-add-storage-drivers-windows-install
+permalink: /2009/may/3/using-external-floppy-drive-add-storage-drivers-windows-install/
 ---
 <p>When you add your third party storage drivers to a windows install (F6 if you catch it) using a USB floppy sometimes the install will fail after the format stage. At this point it is unable to communicate with the USB floppy even though it initially could. You can help it by adding the following to your 'textsetup.oem':</p>
 <pre>

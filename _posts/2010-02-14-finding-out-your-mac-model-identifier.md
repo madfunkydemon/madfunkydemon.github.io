@@ -4,7 +4,7 @@ title: Finding out Your Mac Model Identifier
 created: 1266185364
 categories:
 - os x
-permalink: /2010/february/7/finding-out-your-mac-model-identifier
+permalink: /2010/february/7/finding-out-your-mac-model-identifier/
 ---
 <p>&nbsp;From a terminal use:</p>
 <pre>

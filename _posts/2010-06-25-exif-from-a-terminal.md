@@ -6,7 +6,7 @@ categories:
 - linux/unix
 - os x
 - photography
-permalink: /2010/june/5/exif-terminal
+permalink: /2010/june/5/exif-terminal/
 ---
 <p>&nbsp;It is sometimes useful to see exif information in image files. If you want to examine exif information for an image then <a href="http://www.sno.phy.queensu.ca/~phil/exiftool/">exiftool</a> by Phil Harvey is excellent at doing this from the commandline. If you want to quickly examine exif from the internet then I have put together a small shell script which you can pass a url i.e.</p>
 <pre>

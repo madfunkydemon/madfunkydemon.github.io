@@ -4,7 +4,7 @@ title: Unable to Remove Subinterface from ScreenOS
 created: 1339382687
 categories:
 - networking
-permalink: /2012/june/1/unable-remove-subinterface-screenos
+permalink: /2012/june/1/unable-remove-subinterface-screenos/
 ---
 When removing subinterfaces from a SSG550 we were getting the following error:
 

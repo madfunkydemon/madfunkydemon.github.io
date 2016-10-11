@@ -4,7 +4,7 @@ title: Administer Microsoft Exchange Remotely with Powershell
 created: 1362997832
 categories:
 - windows
-permalink: /2013/march/1/administer-microsoft-exchange-remotely-powershell
+permalink: /2013/march/1/administer-microsoft-exchange-remotely-powershell/
 ---
 Rather than installing the remote exchange management tools and the pain that can cause, you can use powershell remoting. To setup powershell to connect to the exchange server pop the following into a powershell prompt on your client machine:
 {% highlight powershell %}

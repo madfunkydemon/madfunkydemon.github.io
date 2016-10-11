@@ -4,7 +4,7 @@ title: USB Network Interface Missing from Wireshark Interface List
 created: 1391720139
 categories:
 - wireshark
-permalink: /2014/february/4/usb-network-interface-missing-wireshark-interface-list
+permalink: /2014/february/4/usb-network-interface-missing-wireshark-interface-list/
 ---
 I needed to do some packet capturing in windows, so I added a USB network interface to an ultra-book. Upon running wireshark the USB network adapter was conspicuous by its absence from the interface list. After a bit of mulling over I wondered if WinPCap was not aware of the adapter; as these days WinPCap runs as a service. The service is called NPF (NetGroup Packet Filter). So:
 {% highlight bash %}

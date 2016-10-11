@@ -6,7 +6,7 @@ categories:
 - esx
 - virtualisation
 - networking
-permalink: /2008/september/4/sniffing-network-traffic-esx
+permalink: /2008/september/4/sniffing-network-traffic-esx/
 ---
 <p>If you want to enable promiscuous network sniffing within a vSwitch the safest way to do it is to create a second port group.  Promiscuous mode can be enabled on an existing port group but once this has been done, any device connected to that port group has that ability.</p>
 <p class="MsoNormal"><img alt="Port Group Summary" src="/images/sniff_1.png" /></p>

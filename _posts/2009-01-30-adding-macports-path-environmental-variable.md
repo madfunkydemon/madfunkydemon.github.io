@@ -4,7 +4,7 @@ title: Adding MacPorts Path/Environmental Variable
 created: 1233324293
 categories:
 - os x
-permalink: /2009/january/5/adding-macports-pathenvironmental-variable
+permalink: /2009/january/5/adding-macports-pathenvironmental-variable/
 ---
 <p>Run the following from a terminal:</p>
 <pre>

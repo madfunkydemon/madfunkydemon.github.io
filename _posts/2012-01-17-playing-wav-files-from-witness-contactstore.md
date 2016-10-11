@@ -4,7 +4,7 @@ title: Playing WAV Files from Witness ContactStore
 created: 1326819967
 categories:
 - phones
-permalink: /2012/january/2/playing-wav-files-witness-contactstore
+permalink: /2012/january/2/playing-wav-files-witness-contactstore/
 ---
 <p>These days most computers struggle to play WAV files recorded by the Witness Contactsotore. Probably the easiest way to make these files play is to use ffmpeg to convert them as follows:</p>
 <pre>

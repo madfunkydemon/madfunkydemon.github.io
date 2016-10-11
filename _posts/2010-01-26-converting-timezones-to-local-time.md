@@ -4,7 +4,7 @@ title: Converting Timezones to Local Time
 created: 1264511423
 categories:
 - internet
-permalink: /2010/january/2/converting-timezones-local-time
+permalink: /2010/january/2/converting-timezones-local-time/
 ---
 Wolfram Alpha is excellent at this:
 

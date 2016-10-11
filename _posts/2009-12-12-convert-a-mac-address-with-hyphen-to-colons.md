@@ -5,7 +5,7 @@ created: 1260608114
 categories:
 - linux/unix
 - networking
-permalink: /2009/december/6/convert-mac-address-hyphen-colons
+permalink: /2009/december/6/convert-mac-address-hyphen-colons/
 ---
 If you have a MAC delimited with hyphens:
 

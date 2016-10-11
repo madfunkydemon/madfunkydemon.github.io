@@ -4,7 +4,7 @@ title: Quick Method to List Disks in Windows
 created: 1391720587
 categories:
 - windows
-permalink: /2014/february/4/quick-method-list-disks-windows
+permalink: /2014/february/4/quick-method-list-disks-windows/
 ---
 There are numerous ways to do this. However using the WMI from a command prompt does the job:
 

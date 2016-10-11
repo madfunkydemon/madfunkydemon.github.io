@@ -5,7 +5,7 @@ created: 1265705113
 categories:
 - powershell
 - windows
-permalink: /2010/february/2/listing-system-center-configuration-manager-inbox-folders-powershell
+permalink: /2010/february/2/listing-system-center-configuration-manager-inbox-folders-powershell/
 ---
 It is a good idea to keep track of these folders as they can get out of control quite quickly. This powershell command quickly highlights if you have any build up going on. Look out for large numbers of files:
 {% highlight powershell %}

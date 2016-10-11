@@ -4,7 +4,7 @@ title: Running Network WMI Queries on the Command Line
 created: 1269536662
 categories:
 - windows
-permalink: /2010/march/4/running-network-wmi-queries-command-line
+permalink: /2010/march/4/running-network-wmi-queries-command-line/
 ---
 <p>&nbsp;Try:</p>
 <pre>

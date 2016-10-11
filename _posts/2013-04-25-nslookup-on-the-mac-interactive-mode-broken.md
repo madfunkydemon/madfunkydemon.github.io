@@ -4,7 +4,7 @@ title: Nslookup on The Mac, Interactive Mode Broken
 created: 1366920674
 categories:
 - os x
-permalink: /2013/april/4/nslookup-mac-interactive-mode-broken
+permalink: /2013/april/4/nslookup-mac-interactive-mode-broken/
 ---
 Nslookup under osx is tricky to use interactively as it doesn't support readline. When you try to use the command history you get the following:
 {% highlight bash %}

@@ -5,7 +5,7 @@ created: 1220453885
 categories:
 - os x
 - linux/unix
-permalink: /2008/september/3/backing-partions-under-nix
+permalink: /2008/september/3/backing-partions-under-nix/
 ---
 <p>dd is your man here. Replace /dev/disk for the disk you are interested in i.e. sda, sdb :</p>
 <pre>

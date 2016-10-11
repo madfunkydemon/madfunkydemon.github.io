@@ -5,7 +5,7 @@ created: 1241613330
 categories:
 - virtualisation
 - esx
-permalink: /2009/may/3/changing-vlan-tag-existing-esx-service-console
+permalink: /2009/may/3/changing-vlan-tag-existing-esx-service-console/
 ---
 <p>Once you have made network changes (802.1Q)&nbsp;and you have lost&nbsp;(oops)&nbsp;connectivity to your service console, use the following to change the VLAN&nbsp;tag:</p>
 <pre>

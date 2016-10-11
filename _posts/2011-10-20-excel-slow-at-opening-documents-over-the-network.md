@@ -4,7 +4,7 @@ title: Excel Slow at Opening Documents over the Network
 created: 1319116578
 categories:
 - windows
-permalink: /2011/october/4/excel-slow-opening-documents-over-network
+permalink: /2011/october/4/excel-slow-opening-documents-over-network/
 ---
 Recently I have seen Microsoft Office 2003 taking an age to open Excel documents over the network. You can use Wireshark to see what is happening at the network level:
 

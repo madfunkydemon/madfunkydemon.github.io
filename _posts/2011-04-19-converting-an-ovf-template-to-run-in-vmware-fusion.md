@@ -5,7 +5,7 @@ created: 1303216417
 categories:
 - os x
 - vmware
-permalink: /2011/april/2/converting-ovf-template-run-vmware-fusion
+permalink: /2011/april/2/converting-ovf-template-run-vmware-fusion/
 ---
 <p>VMware has a tool called ovftool. You need to do a full, custom install of Fusion to get the ovf tool. It is located in:</p>
 <pre>

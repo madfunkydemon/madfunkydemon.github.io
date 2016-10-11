@@ -5,7 +5,7 @@ created: 1306142407
 categories:
 - linux/unix
 - phones
-permalink: /2011/may/1/converting-audio-use-mitel-hold-music
+permalink: /2011/may/1/converting-audio-use-mitel-hold-music/
 ---
 <p>The music file has to be A-law or U-law or G.711 at 8 khz, 8 Bits, Mono. To do this you can either use sox or ffmpeg. To use sox:</p>
 <pre>
