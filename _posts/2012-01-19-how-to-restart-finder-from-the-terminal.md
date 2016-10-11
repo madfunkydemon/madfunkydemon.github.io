@@ -4,7 +4,7 @@ title: How to Restart Finder from the Terminal
 created: 1326993767
 categories:
 - os x
-permalink: /2012/january/4/how-restart-finder-terminal
+permalink: /2012/january/4/how-restart-finder-terminal/
 ---
 Some times it is necessary to force finder to restart. You can do this from the GUI using the 'Force Quit' menu item, however sometimes it can be quicker to use the Mac terminal:
 
