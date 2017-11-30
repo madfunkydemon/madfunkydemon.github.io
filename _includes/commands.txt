@@ -1,0 +1,9 @@
+Close down everything that is not needed.
+
+Then open permon and check that NT Kernel Logger is not running, then open an elevated cmd and paste in the following lines
+
+
+ipconfig /flushdns
+netsh trace start capture=yes maxsize=1024
+netsh trace stop
+
